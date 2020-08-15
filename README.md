@@ -21,8 +21,9 @@
   2. [An introduction to the BPF Compiler Collection](https://lwn.net/Articles/742082/)
   3. [Some advanced BCC topics](https://lwn.net/Articles/747640/)
   4. [Using user-space tracepoints with BPF](https://lwn.net/Articles/753601/)
-- 博客文章
+- 博客/公众号文章
   1. [eBPF 简史](https://linux.cn/article-9032-1.html)
+  2. [From High Ceph Latency to Kernel Patch with eBPF/BCC](https://mp.weixin.qq.com/s/9MWwwsuB1jgfQ8HTvkh7TA)
 
 
 
